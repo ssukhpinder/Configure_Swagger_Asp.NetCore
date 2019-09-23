@@ -3,7 +3,6 @@
 /Users/sukhpindersingh/Documents/GitHub/Configure_Swagger_Asp.NetCore/SwaggerUI_CoreExample/SwaggerUI_CoreExample/bin/Debug/netcoreapp2.0/SwaggerUI_CoreExample.runtimeconfig.dev.json
 /Users/sukhpindersingh/Documents/GitHub/Configure_Swagger_Asp.NetCore/SwaggerUI_CoreExample/SwaggerUI_CoreExample/bin/Debug/netcoreapp2.0/SwaggerUI_CoreExample.dll
 /Users/sukhpindersingh/Documents/GitHub/Configure_Swagger_Asp.NetCore/SwaggerUI_CoreExample/SwaggerUI_CoreExample/bin/Debug/netcoreapp2.0/SwaggerUI_CoreExample.pdb
-/Users/sukhpindersingh/Documents/GitHub/Configure_Swagger_Asp.NetCore/SwaggerUI_CoreExample/SwaggerUI_CoreExample/obj/Debug/netcoreapp2.0/SwaggerUI_CoreExample.csprojAssemblyReference.cache
 /Users/sukhpindersingh/Documents/GitHub/Configure_Swagger_Asp.NetCore/SwaggerUI_CoreExample/SwaggerUI_CoreExample/obj/Debug/netcoreapp2.0/SwaggerUI_CoreExample.csproj.CoreCompileInputs.cache
 /Users/sukhpindersingh/Documents/GitHub/Configure_Swagger_Asp.NetCore/SwaggerUI_CoreExample/SwaggerUI_CoreExample/obj/Debug/netcoreapp2.0/SwaggerUI_CoreExample.AssemblyInfoInputs.cache
 /Users/sukhpindersingh/Documents/GitHub/Configure_Swagger_Asp.NetCore/SwaggerUI_CoreExample/SwaggerUI_CoreExample/obj/Debug/netcoreapp2.0/SwaggerUI_CoreExample.AssemblyInfo.cs
